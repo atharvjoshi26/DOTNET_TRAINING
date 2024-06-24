@@ -1,0 +1,14 @@
+C:\Users\athar\OneDrive\Desktop\dot\bin\Debug\net8.0\dot.exe
+C:\Users\athar\OneDrive\Desktop\dot\bin\Debug\net8.0\dot.deps.json
+C:\Users\athar\OneDrive\Desktop\dot\bin\Debug\net8.0\dot.runtimeconfig.json
+C:\Users\athar\OneDrive\Desktop\dot\bin\Debug\net8.0\dot.dll
+C:\Users\athar\OneDrive\Desktop\dot\bin\Debug\net8.0\dot.pdb
+C:\Users\athar\OneDrive\Desktop\dot\obj\Debug\net8.0\dot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\athar\OneDrive\Desktop\dot\obj\Debug\net8.0\dot.AssemblyInfoInputs.cache
+C:\Users\athar\OneDrive\Desktop\dot\obj\Debug\net8.0\dot.AssemblyInfo.cs
+C:\Users\athar\OneDrive\Desktop\dot\obj\Debug\net8.0\dot.csproj.CoreCompileInputs.cache
+C:\Users\athar\OneDrive\Desktop\dot\obj\Debug\net8.0\dot.dll
+C:\Users\athar\OneDrive\Desktop\dot\obj\Debug\net8.0\refint\dot.dll
+C:\Users\athar\OneDrive\Desktop\dot\obj\Debug\net8.0\dot.pdb
+C:\Users\athar\OneDrive\Desktop\dot\obj\Debug\net8.0\dot.genruntimeconfig.cache
+C:\Users\athar\OneDrive\Desktop\dot\obj\Debug\net8.0\ref\dot.dll
